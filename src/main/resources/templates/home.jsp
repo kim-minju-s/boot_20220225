@@ -7,6 +7,21 @@
     <title>home</title>
 </head>
 <body>
-    homeeee
+    <header>
+        <h3>홈 화면</h3>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="./join">join</a></li>
+            <li><a href="./login">login</a></li>
+            <li><a href="./board">board</a></li>
+        </ul>
+    </nav>
+    <section>
+        본문 내용~
+    </section>
+    
+    
+    
 </body>
 </html>

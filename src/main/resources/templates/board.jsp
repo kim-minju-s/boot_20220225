@@ -7,6 +7,14 @@
     <title>board</title>
 </head>
 <body>
-    여기는 게시판
+    <header>
+        <h3>여기는 게시판</h3>
+    </header>
+    <section>
+
+        게시판 목록 <br />
+        <button>글쓰기</button>
+
+    </section>
 </body>
 </html>
