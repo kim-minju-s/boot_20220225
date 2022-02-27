@@ -12,7 +12,7 @@ public class HomeController {
         // home.jsp를 표시하기
 
         // home.jsp로 list 값을 전송시켜서 출력
-
+        
         return "home";
     }
 
